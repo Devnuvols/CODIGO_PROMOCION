@@ -1,5 +1,4 @@
-# MAKE_1
-GENERA CODIGO PROMOCION
+# GENERA CODIGO PROMOCION
 
 Con esta automatización vamos a generar un código QR que contiene información de un número o código alfanumérico aleatorio.
 
